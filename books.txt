@@ -1,0 +1,5 @@
+B001,The Hobbit,J.R.R. Tolkien
+B002,The Alchemist,Paulo Coelho
+B003,Data Structures and Algorithms,Robert Sedgewick
+B004,Introduction to Algorithms,Thomas H. Cormen
+B005,Deep Learning,Ian Goodfellow

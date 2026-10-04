@@ -1,0 +1,5 @@
+ALU001,Didier Nsenga,BLK101
+ALU002,Noella Mutesi,BLK101
+ALU003,Joseph Kabera,BLK101
+ALU004,Oliva Mutesi,BLK101
+ALU005,Fahim Ahmed Kasa,BLK102
